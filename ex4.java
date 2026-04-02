@@ -1,3 +1,8 @@
+// 4-) Crie um vetor A que receberá 5 valores digitados pelo usuário e um vetor B 
+// que também irá receber 5 valores digitados pelo usuário, na sequencia os 
+// valores do Vetor A deveram ser transferidos para o Vetor B e os do Vetor B 
+// transferidos para o Vetor A (Utilizar a estrutura FOR e somente 2 vetores). 
+
 package com.mycompany.teste;
 import java.util.Scanner;
 public class ex4 {
